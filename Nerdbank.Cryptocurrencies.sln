@@ -32,13 +32,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{36CCE840-6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6BCDD489-47B6-441A-A547-2BE7CF68B8F3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerdbank.Zcash", "src\Nerdbank.Zcash\Nerdbank.Zcash.csproj", "{5EDC775A-BA1B-48D8-9F62-645612C30CF0}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2C99DF2C-0284-4C94-AD6B-692D93D9E3FA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerdbank.Zcash.Tests", "test\Nerdbank.Zcash.Tests\Nerdbank.Zcash.Tests.csproj", "{0F833CBA-991C-4A81-BABB-4964307CCCFF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerdbank.Cryptocurrencies", "src\Nerdbank.Cryptocurrencies\Nerdbank.Cryptocurrencies.csproj", "{777CF9A5-26F4-42BA-9ECB-5ED6B75D988C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerdbank.Zcash", "src\Nerdbank.Zcash\Nerdbank.Zcash.csproj", "{5EDC775A-BA1B-48D8-9F62-645612C30CF0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nerdbank.Cryptocurrencies.Tests", "test\Nerdbank.Cryptocurrencies.Tests\Nerdbank.Cryptocurrencies.Tests.csproj", "{46FE7AFC-B261-46A7-9AEC-4EF580608D28}"
 EndProject
